@@ -1,0 +1,32 @@
+[
+    {
+        "id": "101",
+        "titulo": "Avengers",
+        "fecha": "01/05/20",
+        "id_paises": ["01", "02", "03", "07", "10"]
+    },
+    {
+        "id": "102",
+        "titulo": "La Casa de Papel",
+        "fecha": "03/12/2021",
+        "id_paises": ["02", "03", "05"]
+    },
+    {
+        "id": "103",
+        "titulo": "Stranger Things",
+        "fecha": "15/07/2023",
+        "id_paises": ["01", "03", "04", "06"]
+    },
+    {
+        "id": "104",
+        "titulo": "Avatar",
+        "fecha": "14/11/2009",
+        "id_paises": ["03", "09", "10"]
+    },
+    {
+        "id": "105",
+        "titulo": "Mi vecino Totoro",
+        "fecha": "13/02/1988",
+        "id_paises": ["04", "05", "07", "08"]
+    }
+]

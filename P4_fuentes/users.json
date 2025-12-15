@@ -1,0 +1,11 @@
+{
+    "Karites06": {
+        "id": 156749,
+        "nombre": "Karites06",
+        "password": "scrypt:32768:8:1$bYx0DQO2J0XvDUoo$db029263dc14563d872061df51feeaa63982caef50c46e5a01e616963177426467383e833798c8197c5812cc5202537e6a8f09fbed408967da2297c0a4d4eb51",
+        "id_pais": 1,
+        "id_historial": 145689,
+        "esta_suscripto": true,
+        "es_admin": false
+    }
+}
