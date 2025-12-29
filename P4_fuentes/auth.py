@@ -33,7 +33,7 @@ def register():
     if creado:
         # P3/P4: Crear historial asociado automáticamente
         crear_historial_db(id_historial, user_id)
-        return jsonify({"message": "Usuario registrado y historial creado"}), 201
+        return jsonify({"Usuario registrado e historial creado"}), 201
     else:
         return jsonify({"error": "Error al crear usuario"}), 500
 
