@@ -1,42 +1,42 @@
 [
 {
-	"id": "01",
+	"id": 1,
 	"nombre": "Alemania"
 },
 {
-	"id": "02",
+	"id": 2,
 	"nombre": "España"
 },
 {
-	"id": "03",
+	"id": 3,
 	"nombre": "Portugal"
 },
 {
-	"id": "04",
+	"id": 4,
 	"nombre": "Francia"
 },
 {
-	"id": "05",
+	"id": 5,
 	"nombre": "Italia"
 },
 {
-	"id": "06",
+	"id": 6,
 	"nombre": "Reino Unido"
 },
 {
-	"id": "07",
+	"id": 7,
 	"nombre": "Belgica"
 },
 {
-	"id": "08",
+	"id": 8,
 	"nombre": "Paises Bajos"
 },
 {
-	"id": "09",
+	"id": 9,
 	"nombre": "Irlanda"
 },
 {
-	"id": "10",
+	"id": 10,
 	"nombre": "Dinamarca"
 }
 ]
